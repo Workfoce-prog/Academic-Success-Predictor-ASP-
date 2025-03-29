@@ -1,0 +1,6 @@
+Student ID,GPA,Attendance Rate,Engagement Score,Credit Completion,Financial Risk,First-Gen,Housing Risk,ELL,Missed Meals,No Internet,No Academic Support,Peer Belonging,Bullying Reports,Adult Ally,Activity Participation,Disciplinary Referrals,ASP Score,RAG Category
+S001,3.2,90,85,95,True,True,False,False,False,False,True,80,2,100,100,3,87.7,Green (Low Risk)
+S002,2.5,78,60,80,False,False,True,True,True,False,True,65,10,0,0,20,63.6,Red (High Risk)
+S003,3.8,95,92,100,False,True,False,False,False,False,False,90,0,100,100,0,102.45,Green (Low Risk)
+S004,1.9,70,55,65,True,True,True,False,True,True,True,50,15,100,0,35,49.75,Red (High Risk)
+S005,2.7,88,75,85,True,False,False,True,False,False,False,72,6,100,100,10,84.8,Amber (Moderate Risk)
